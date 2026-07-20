@@ -165,6 +165,6 @@ This project is licensed under the MIT License.
 
 Data Analyst
 
-LinkedIn: *(سنضيف الرابط بعد إنشاء الملف الشخصي بشكل كامل)*
+LinkedIn: *[Yazan Nasser Al-Baidhani](https://www.linkedin.com/in/yazan-nasser-al-baidhani-27196a3b0/)*
 
-GitHub: *(رابط المستودع)*
+GitHub: *(https://github.com/YazanAlbaidhani/electromart-sales-analysis)*
